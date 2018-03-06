@@ -1,6 +1,6 @@
 # DuckietownChile_Repositories_2017
 
-Aca se pueden encontrar los repositorios de los engineers trainees del año 2017
+Aca se pueden encontrar los repositorios de los ingenieros trainees del año 2017
 
 [Alejandro Luzanto](https://github.com/aluzanto/Software)
 
