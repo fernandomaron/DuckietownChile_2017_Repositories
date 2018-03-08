@@ -5,9 +5,9 @@ Aca se pueden encontrar los repositorios de los ingenieros trainees del año 201
 ### Proyecto localizacion
 
 Integrantes: -Diego González
-             -Juan Urrutia
-             -Julian Solis
              -Pavan Samtani
+             -Julian Solis
+             -Juan Urrutia
              
 Links: -[Guia](https://github.com/dgonzalezd150/Duckietown)
        -[Repositorio](https://github.com/jurrutiag/Software)    
@@ -35,3 +35,11 @@ Integrantes: -Alejandro Luzanto
              -Kelly Wagemann
              
 Link: -[Repositorio](https://github.com/aluzanto/proyecto7)
+
+### Proyecto deteccion de lineas: 
+Integrantes: -Catalina Caceres
+             -Nicolas Fredes
+             -Samuel Madera
+             -Diego Ortego
+             
+Link: -[Repositorio](https://github.com/Gedoix/Software)  
