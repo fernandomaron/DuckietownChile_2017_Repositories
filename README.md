@@ -43,3 +43,9 @@ Integrantes: -Catalina Caceres
              -Diego Ortego
              
 Link: -[Repositorio](https://github.com/Gedoix/Software)  
+
+### Proyecto deteccion de patos
+
+Integrante: -Cristobal Peralta
+
+Link: -[Repositorio](https://github.com/CristobalPeralta/Software)
